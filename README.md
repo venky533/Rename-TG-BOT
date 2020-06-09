@@ -15,7 +15,7 @@ An Open Source Rename Telegram RoBot
 
 
 ### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ankith09/Rename-TG-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/venky533/Rename-TG-BOT)/edit/master/README.md
 
 
 #### The Hard Way
