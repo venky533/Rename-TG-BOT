@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT Edited By This <a href="https://tx.me/ANKITH_M">MAN</a>
+    START_TEXT = """ Simple Telegram Renaming BOT Edited By This <a href="https://tx.me/Wizard09">MAN</a>
 
 <b>Please send me any Telegram file and reply /rename New Name.extn</b>
 SEE /help For My Features"""
